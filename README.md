@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @nmbr13
+- 👀 I’m interested in generative allgorithms and the use of software to connect people. 
+- 🌱 I’m currently learning modern javascript practices
+- 💞️ I’m looking to collaborate on fun social applications or open source projects
